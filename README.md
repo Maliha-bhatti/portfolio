@@ -35,9 +35,7 @@ This site showcases who I am, what I do, and the projects I’ve worked on as a 
 
 ![Website Screenshot](screenshot.png)
 
-> *(Add your own screenshot.png in the repo)*
-
----
+images/portfolio-screenshot.png
 
 ## 📬 Contact
 

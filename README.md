@@ -31,12 +31,6 @@ This site showcases who I am, what I do, and the projects I’ve worked on as a 
 
 ---
 
-## 📷 Preview
-
-![Website Screenshot](screenshot.png)
-
-images/portfolio-screenshot.png
-
 ## 📬 Contact
 
 If you’d like to collaborate or connect:
